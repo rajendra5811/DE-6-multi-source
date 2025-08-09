@@ -1,0 +1,9 @@
+{
+	"name": "synapse",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "56108ae6-ca4d-452c-ab83-8324ca47eaa1",
+		"tenantId": "b2974348-ec6b-4972-a0fe-bbe779f5cca8"
+	}
+}
